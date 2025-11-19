@@ -16,7 +16,7 @@ const Hero = () => {
         {/* Typing Heading */}
         <h1
           className="
-            text-[27px] xs:text-4xl sm:text-5xl md:text-3xl lg:text-5xl xl:text-7xl
+            text-2xl xs:text-4xl sm:text-5xl md:text-3xl lg:text-5xl xl:text-7xl
             font-bold mb-4 leading-tight
             border-r-4 border-white
             animate-typing animate-blink
