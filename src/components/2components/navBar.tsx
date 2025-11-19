@@ -90,6 +90,9 @@ const NavBar = () => {
               <Link to="/blog" className="hover:text-[#884513] cursor-pointer">BLOG</Link>
             </li>
             <li>
+              <Link to="/contact" className="hover:text-[#884513] cursor-pointer">CONTACT US</Link>
+            </li>
+            <li>
               <Link to="/book" className="bg-[#884513] py-3 px-4 rounded-[15px] text-center text-white cursor-pointer">
                 BOOK A CALL
               </Link>
