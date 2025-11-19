@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import Blogbg from "../assets/blogbg.jpg";
+import Blogbg from "../assets/Blogbg.jpg";
 import NavBar from "./2components/navBar";
 import Footer from "./2components/footer";
 
